@@ -1,0 +1,10 @@
+Inyección de la nueva aplicación en Salud y Seguridad:
+
+Dentro de GodMode9 nos dirigimos al apartado de SDCARD.
+Seleccionamos el .cia de la aplicación que deseamos inyectar (por ejemplo "FBI.cia").
+Seleccionamos la opción "CIA image options..." seguido de "Mount image to drive".
+Seleccionamos el archivo que termina en ".app".
+Escogemos la opción "NCCH image options..." y acto seguido "Inject to H&S".
+Desbloqueamos la escritura en la NAND pulsando A y luego la combinación de teclas que se nos indica.
+Al finalizar pulsamos A para continuar y START para reiniciar nuestra consola.
+Al iniciar nuestra consola, disfrutamos de la aplicación que inyectamos en Salud y Seguridad (por ejemplo FBI).
